@@ -4,8 +4,8 @@
 # TOP-150 mobile list (the "3rd option": best servers merged from VLESS + SS/All)
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
 
-# Full VLESS (heavy: 1000-2000 configs, desktop only) - uncomment to include:
-#https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
+# Full VLESS (1000-2000 configs)
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
 
-# Full Shadowsocks+All (heavy) - uncomment to include:
-#https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt
+# Full Shadowsocks+All (ShadowSocks, Hysteria2, VMess, Trojan)
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt
