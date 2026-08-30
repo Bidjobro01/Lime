@@ -1,5 +1,6 @@
-# 🍋🟩Lime - custom VPN subscription
-# Updated: 2026-08-30 12:50 UTC
+#profile-title: 🍋🟩Lime
+#profile-update-interval: 1
+# Updated: 2026-08-30 12:55 UTC
 # Unique servers: 186
 
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.226.114:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&headerType=none&fp=qq#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

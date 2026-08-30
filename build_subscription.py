@@ -61,7 +61,8 @@ def main():
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     header = (
-        f"# {SUB_NAME} - custom VPN subscription",
+        f"#profile-title: {SUB_NAME}",
+        "#profile-update-interval: 1",
         f"# Updated: {now}",
         f"# Unique servers: {len(merged)}",
     )
