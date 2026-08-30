@@ -1,0 +1,11 @@
+# Sources for the Lime subscription. One URL per line, lines starting with # are ignored.
+# You can add ANY free subscription URL here - all configs will be merged into Lime.txt.
+
+# TOP-150 mobile list (the "3rd option": best servers merged from VLESS + SS/All)
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
+
+# Full VLESS (heavy: 1000-2000 configs, desktop only) - uncomment to include:
+#https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
+
+# Full Shadowsocks+All (heavy) - uncomment to include:
+#https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt
